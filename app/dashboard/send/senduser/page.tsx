@@ -71,7 +71,7 @@ export default function SendMoneyPage() {
   };
 
   return (
-    <div className="max-w-md mx-auto min-h-screen bg-gray-50 flex flex-col pt-16">
+    <div className="max-w-md mx-auto h-300 bg-gray-50 flex flex-col pt-16">
       {/* TOP BAR */}
       <div className="bg-white border-b px-4 py-3 flex justify-between">
         <div>
